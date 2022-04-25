@@ -1,6 +1,6 @@
 
 # Description
-* It is a simple Traffic light project with NodeMCU and WebCam
+* It is a simple Traffic light project with NodeMCU, ESP8266 and WebCam
 ## Requirements
 
 # High Level Requirements
@@ -43,6 +43,6 @@
 * 1)	Who –  Divyanshu Singh
 * 2)	When – before 25/04/2022
 * 3)	Where – Mini Project
-* 4)	What – Traffic light System
+* 4)	What – Density Based Traffic light System
 * 5)	Why – The interface is user-friendly and easy to use
 * 6)	How – with the help of Anaconda navigator and SimulIDE
